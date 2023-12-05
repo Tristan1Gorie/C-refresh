@@ -1,0 +1,15 @@
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\bin\Debug\net6.0\SumsSquared.exe
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\bin\Debug\net6.0\SumsSquared.deps.json
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\bin\Debug\net6.0\SumsSquared.runtimeconfig.json
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\bin\Debug\net6.0\SumsSquared.dll
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\bin\Debug\net6.0\SumsSquared.pdb
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\obj\Debug\net6.0\SumsSquared.csproj.AssemblyReference.cache
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\obj\Debug\net6.0\SumsSquared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\obj\Debug\net6.0\SumsSquared.AssemblyInfoInputs.cache
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\obj\Debug\net6.0\SumsSquared.AssemblyInfo.cs
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\obj\Debug\net6.0\SumsSquared.csproj.CoreCompileInputs.cache
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\obj\Debug\net6.0\SumsSquared.dll
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\obj\Debug\net6.0\refint\SumsSquared.dll
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\obj\Debug\net6.0\SumsSquared.pdb
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\obj\Debug\net6.0\SumsSquared.genruntimeconfig.cache
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\obj\Debug\net6.0\ref\SumsSquared.dll

@@ -1,0 +1,15 @@
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\bin\Debug\net6.0\Arithmetic.exe
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\bin\Debug\net6.0\Arithmetic.deps.json
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\bin\Debug\net6.0\Arithmetic.runtimeconfig.json
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\bin\Debug\net6.0\Arithmetic.dll
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\bin\Debug\net6.0\Arithmetic.pdb
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\obj\Debug\net6.0\Arithmetic.csproj.AssemblyReference.cache
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\obj\Debug\net6.0\Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\obj\Debug\net6.0\Arithmetic.AssemblyInfoInputs.cache
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\obj\Debug\net6.0\Arithmetic.AssemblyInfo.cs
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\obj\Debug\net6.0\Arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\obj\Debug\net6.0\Arithmetic.dll
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\obj\Debug\net6.0\refint\Arithmetic.dll
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\obj\Debug\net6.0\Arithmetic.pdb
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\obj\Debug\net6.0\Arithmetic.genruntimeconfig.cache
+C:\Users\trist\Desktop\C# practice\Arithmetic\Arithmetic\obj\Debug\net6.0\ref\Arithmetic.dll
