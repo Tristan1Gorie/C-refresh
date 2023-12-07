@@ -1,0 +1,15 @@
+C:\Users\trist\Desktop\C# practice\Data types A\Data types A\bin\Debug\net6.0\Data types A.exe
+C:\Users\trist\Desktop\C# practice\Data types A\Data types A\bin\Debug\net6.0\Data types A.deps.json
+C:\Users\trist\Desktop\C# practice\Data types A\Data types A\bin\Debug\net6.0\Data types A.runtimeconfig.json
+C:\Users\trist\Desktop\C# practice\Data types A\Data types A\bin\Debug\net6.0\Data types A.dll
+C:\Users\trist\Desktop\C# practice\Data types A\Data types A\bin\Debug\net6.0\Data types A.pdb
+C:\Users\trist\Desktop\C# practice\Data types A\Data types A\obj\Debug\net6.0\Data types A.csproj.AssemblyReference.cache
+C:\Users\trist\Desktop\C# practice\Data types A\Data types A\obj\Debug\net6.0\Data types A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trist\Desktop\C# practice\Data types A\Data types A\obj\Debug\net6.0\Data types A.AssemblyInfoInputs.cache
+C:\Users\trist\Desktop\C# practice\Data types A\Data types A\obj\Debug\net6.0\Data types A.AssemblyInfo.cs
+C:\Users\trist\Desktop\C# practice\Data types A\Data types A\obj\Debug\net6.0\Data types A.csproj.CoreCompileInputs.cache
+C:\Users\trist\Desktop\C# practice\Data types A\Data types A\obj\Debug\net6.0\Data types A.dll
+C:\Users\trist\Desktop\C# practice\Data types A\Data types A\obj\Debug\net6.0\refint\Data types A.dll
+C:\Users\trist\Desktop\C# practice\Data types A\Data types A\obj\Debug\net6.0\Data types A.pdb
+C:\Users\trist\Desktop\C# practice\Data types A\Data types A\obj\Debug\net6.0\Data types A.genruntimeconfig.cache
+C:\Users\trist\Desktop\C# practice\Data types A\Data types A\obj\Debug\net6.0\ref\Data types A.dll

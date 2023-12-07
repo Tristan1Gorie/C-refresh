@@ -1,0 +1,15 @@
+C:\Users\trist\Desktop\C# practice\Geometary A\Geometary A\bin\Debug\net6.0\Geometary A.exe
+C:\Users\trist\Desktop\C# practice\Geometary A\Geometary A\bin\Debug\net6.0\Geometary A.deps.json
+C:\Users\trist\Desktop\C# practice\Geometary A\Geometary A\bin\Debug\net6.0\Geometary A.runtimeconfig.json
+C:\Users\trist\Desktop\C# practice\Geometary A\Geometary A\bin\Debug\net6.0\Geometary A.dll
+C:\Users\trist\Desktop\C# practice\Geometary A\Geometary A\bin\Debug\net6.0\Geometary A.pdb
+C:\Users\trist\Desktop\C# practice\Geometary A\Geometary A\obj\Debug\net6.0\Geometary A.csproj.AssemblyReference.cache
+C:\Users\trist\Desktop\C# practice\Geometary A\Geometary A\obj\Debug\net6.0\Geometary A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trist\Desktop\C# practice\Geometary A\Geometary A\obj\Debug\net6.0\Geometary A.AssemblyInfoInputs.cache
+C:\Users\trist\Desktop\C# practice\Geometary A\Geometary A\obj\Debug\net6.0\Geometary A.AssemblyInfo.cs
+C:\Users\trist\Desktop\C# practice\Geometary A\Geometary A\obj\Debug\net6.0\Geometary A.csproj.CoreCompileInputs.cache
+C:\Users\trist\Desktop\C# practice\Geometary A\Geometary A\obj\Debug\net6.0\Geometary A.dll
+C:\Users\trist\Desktop\C# practice\Geometary A\Geometary A\obj\Debug\net6.0\refint\Geometary A.dll
+C:\Users\trist\Desktop\C# practice\Geometary A\Geometary A\obj\Debug\net6.0\Geometary A.pdb
+C:\Users\trist\Desktop\C# practice\Geometary A\Geometary A\obj\Debug\net6.0\Geometary A.genruntimeconfig.cache
+C:\Users\trist\Desktop\C# practice\Geometary A\Geometary A\obj\Debug\net6.0\ref\Geometary A.dll

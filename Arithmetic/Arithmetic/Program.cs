@@ -7,7 +7,8 @@
             //Sums();
             //SumOfThreeFactors();
             //DivisionBy0();
-            Operations();
+            //Operations();
+            ValofFunctions();
         }
 
         public static void Sums()
@@ -65,6 +66,20 @@
             Console.WriteLine("(13 - 2)x{0} = {1}", x, (13 - 2)*x);
             Console.WriteLine("({0} + -2) x (20 / 10) = {1}", x, (x + -2) * (20 / 10));
             Console.WriteLine("(12 + {0}) / (5 - 4) = {1}", x, (12 + x) / (5 - 4));
+        }
+
+        public static void ValofFunctions()
+        {
+            Console.WriteLine("Enter min range: ");
+            int r1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter max range: ");
+            int r2 = Convert.ToInt32(Console.ReadLine());
+            int y;
+            for (int x = r1; x<=r2;x++)
+            {
+                y = x * x - 2 * x + 1;
+                Console.Write("{0} ", y);
+            }
         }
     }
 }
