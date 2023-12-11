@@ -6,7 +6,11 @@ namespace Geometary_A
     {
         static void Main(string[] args)
         {
-            FunctionGraphic();
+            int x = 25; // Replace this with the integer for which you want to find the square root
+
+            int result = MySqrt(x);
+
+            Console.WriteLine($"Square root of {x} (floor): {result}");
         }
 
         public static void DrawSquare()
@@ -112,6 +116,37 @@ namespace Geometary_A
                 }
                 Console.WriteLine("");
             }
+        }
+
+        public static void Square()
+        {
+            int n = 5;
+            int[] arr = { 1, 2, 3, -2, 5 };
+
+            int max_current = arr[0];
+            int max_global = arr[0];
+
+            for (int i = 1; i < n; i++)
+            {
+                // Update max_current to be the maximum of the current element and the sum so far
+                max_current = Math.Max(arr[i], max_current + arr[i]);
+
+                // Update max_global to be the maximum of its current value and max_current
+                max_global = Math.Max(max_global, max_current);
+            }
+
+            Console.WriteLine($"Maximum subarray sum: {max_global}");
+        }
+
+        public static int MySqrt(int x)
+        {
+            if (x < 0)
+            {
+                throw new ArgumentException("Input must be a non-negative integer.");
+            }
+
+            double sqrtResult = Math.Sqrt(x);
+            return (int)Math.Floor(sqrtResult);
         }
     }
 }

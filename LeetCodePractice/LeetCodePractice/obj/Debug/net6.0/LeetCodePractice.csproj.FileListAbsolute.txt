@@ -1,0 +1,15 @@
+C:\Users\trist\Desktop\C# practice\LeetCodePractice\LeetCodePractice\bin\Debug\net6.0\LeetCodePractice.exe
+C:\Users\trist\Desktop\C# practice\LeetCodePractice\LeetCodePractice\bin\Debug\net6.0\LeetCodePractice.deps.json
+C:\Users\trist\Desktop\C# practice\LeetCodePractice\LeetCodePractice\bin\Debug\net6.0\LeetCodePractice.runtimeconfig.json
+C:\Users\trist\Desktop\C# practice\LeetCodePractice\LeetCodePractice\bin\Debug\net6.0\LeetCodePractice.dll
+C:\Users\trist\Desktop\C# practice\LeetCodePractice\LeetCodePractice\bin\Debug\net6.0\LeetCodePractice.pdb
+C:\Users\trist\Desktop\C# practice\LeetCodePractice\LeetCodePractice\obj\Debug\net6.0\LeetCodePractice.csproj.AssemblyReference.cache
+C:\Users\trist\Desktop\C# practice\LeetCodePractice\LeetCodePractice\obj\Debug\net6.0\LeetCodePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trist\Desktop\C# practice\LeetCodePractice\LeetCodePractice\obj\Debug\net6.0\LeetCodePractice.AssemblyInfoInputs.cache
+C:\Users\trist\Desktop\C# practice\LeetCodePractice\LeetCodePractice\obj\Debug\net6.0\LeetCodePractice.AssemblyInfo.cs
+C:\Users\trist\Desktop\C# practice\LeetCodePractice\LeetCodePractice\obj\Debug\net6.0\LeetCodePractice.csproj.CoreCompileInputs.cache
+C:\Users\trist\Desktop\C# practice\LeetCodePractice\LeetCodePractice\obj\Debug\net6.0\LeetCodePractice.dll
+C:\Users\trist\Desktop\C# practice\LeetCodePractice\LeetCodePractice\obj\Debug\net6.0\refint\LeetCodePractice.dll
+C:\Users\trist\Desktop\C# practice\LeetCodePractice\LeetCodePractice\obj\Debug\net6.0\LeetCodePractice.pdb
+C:\Users\trist\Desktop\C# practice\LeetCodePractice\LeetCodePractice\obj\Debug\net6.0\LeetCodePractice.genruntimeconfig.cache
+C:\Users\trist\Desktop\C# practice\LeetCodePractice\LeetCodePractice\obj\Debug\net6.0\ref\LeetCodePractice.dll
